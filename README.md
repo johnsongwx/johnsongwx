@@ -2,7 +2,7 @@
 - 👀 I’m interested in Photography / Live Stream of Big Events
 - 🌱 I’m currently learning PLM & all fields in NLP
 - 💞️ I’m looking to collaborate on Biomedical NLP
-- 📫 How to reach me ： 
+- 📫 How to reach me ： gwx0320@foxmail.com
 
 <!---
 johnsongwx/johnsongwx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
